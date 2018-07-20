@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51630" started-at="2018-05-14T20:21:22Z" finished-at="2018-05-14T20:22:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51630" started-at="2018-05-14T20:21:22Z" finished-at="2018-05-14T20:22:13Z">
+      <class name="com.SeleniumOverstock.NewHomePageAModUS">
+        <test-method status="PASS" signature="FirefoxTest()[pri:0, instance:com.SeleniumOverstock.NewHomePageAModUS@3943a2be]" name="FirefoxTest" duration-ms="51612" started-at="2018-05-14T14:21:22Z" finished-at="2018-05-14T14:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxTest -->
+      </class> <!-- com.SeleniumOverstock.NewHomePageAModUS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
